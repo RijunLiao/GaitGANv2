@@ -2,6 +2,7 @@
 GaitGANv2 is a new method based on generative adversarial network to remove variations for gait recognition.  Our approach differs from the traditional GAN in that GaitGANv2 contains two discriminators instead of one. They are respectively called fake/real discriminator and identification discriminator. While the first discriminator ensures that the generated gait images are realistic, the second one maintains the human identity information.
 Link to paper:
 - [GaitGANv2: Invariant Gait Feature Extraction Using Generative Adversarial Networks](http://r.web.umkc.edu/rlyfv/papers/gaitganv2.pdf)
+Please contact with me (rijun.liao@gmail.com) if you have any questions. Thank you!
 
 ## Prerequisites
 
